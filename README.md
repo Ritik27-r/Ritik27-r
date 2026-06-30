@@ -4,14 +4,13 @@
 
 I enjoy building reliable infrastructure, automating repetitive tasks, and deploying applications the way they're run in production.
 
-Currently focused on mastering **AWS, Kubernetes, Terraform, CI/CD, Linux, Docker, and Observability** through hands-on projects instead of tutorials.
+Currently focused on mastering **AWS, CI/CD, Linux, Docker, and Observability** through hands-on projects instead of tutorials.
 
 ---
 
 ## 🚀 Current Focus
 
 - ☁️ AWS Cloud
-- ☸️ Kubernetes
 - ⚙️ CI/CD Pipelines
 - 🐳 Docker & Containerization
 - 🏗️ Infrastructure as Code (Terraform)
@@ -23,12 +22,11 @@ Currently focused on mastering **AWS, Kubernetes, Terraform, CI/CD, Linux, Docke
 
 ## 🌱 Currently Learning
 
-- Kubernetes
-- Helm
-- ArgoCD
-- GitOps
-- Ansible
-- Production System Design
+- ☸️ Kubernetes – Container orchestration & production deployments
+- 🏗️ Terraform – Infrastructure as Code (IaC)
+- ⚙️ Jenkins – CI/CD pipeline automation
+- 🤖 Ansible – Configuration management & automation
+- 🏛️ Production System Design – Designing scalable, reliable, and highly available systems
 
 ---
 
@@ -86,8 +84,6 @@ Currently focused on mastering **AWS, Kubernetes, Terraform, CI/CD, Linux, Docke
 🔹 AWS Infrastructure with Terraform
 
 🔹 CI/CD Pipeline using GitHub Actions & Jenkins
-
-🔹 Kubernetes Microservices Deployment
 
 🔹 Monitoring Stack with Prometheus & Grafana
 

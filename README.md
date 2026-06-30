@@ -1,27 +1,126 @@
-# 💫 About Me:
-# Ritik Rawat | DevOps Engineer in Progress 🚀<br><br>I enjoy turning ideas into reliable, automated systems.<br><br>My interests include cloud infrastructure, Linux, containers, CI/CD, Infrastructure as Code, observability, and AI-assisted developer workflows.<br><br>Every project here is part of a long-term journey toward becoming a production-ready DevOps engineer. I focus on understanding how systems work behind the scenes—not just how to use the tools.<br><br>### Current Mission<br><br>* Build production-grade DevOps projects<br>* Contribute to open source<br>* Continuously improve through hands-on learning<br>* Share knowledge with the developer community<br><br>If you're interested in cloud, automation, or DevOps, you're in the right place.<br>
+# 👋 Hi, I'm Ritik Rawat
 
+### 🚀 Aspiring DevOps & Cloud Engineer | Building Production-Ready Infrastructure
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not-so_ritik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-rawat2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rawatritik70@gmil.com) 
+I enjoy building reliable infrastructure, automating repetitive tasks, and deploying applications the way they're run in production.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ritik27-r&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ritik27-r&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritik27-r&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ritik27-r&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ritik27-r&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently focused on mastering **AWS, Kubernetes, Terraform, CI/CD, Linux, Docker, and Observability** through hands-on projects instead of tutorials.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ritik27-r&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Current Focus
+
+- ☁️ AWS Cloud
+- ☸️ Kubernetes
+- ⚙️ CI/CD Pipelines
+- 🐳 Docker & Containerization
+- 🏗️ Infrastructure as Code (Terraform)
+- 📊 Monitoring (Prometheus + Grafana)
+- 🐧 Linux Administration
+- 🤖 AI-powered Developer Tools
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes
+- Helm
+- ArgoCD
+- GitOps
+- Ansible
+- Production System Design
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build 10+ Production-Level DevOps Projects
+- ✅ Contribute to Open Source
+- ✅ Land a DevOps / Cloud Engineer Role
+- ✅ Earn AWS & CNCF Certifications
+- ✅ Share everything I learn
+
+---
+
+# 🛠 Tech Stack
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb)
+
+### Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
+---
+
+# 🚀 Featured Projects
+
+🔹 Containerized 3-Tier Application
+
+🔹 AWS Infrastructure with Terraform
+
+🔹 CI/CD Pipeline using GitHub Actions & Jenkins
+
+🔹 Kubernetes Microservices Deployment
+
+🔹 Monitoring Stack with Prometheus & Grafana
+
+*(More coming soon...)*
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritik27-r&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik27-r&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ritik27-r&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ritik-rawat2002)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/not-so_ritik)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:rawatritik70@gmail.com)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Ritik27-r&style=flat-square)
